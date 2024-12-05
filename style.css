@@ -23,6 +23,22 @@ header img {
     height: 60px;
 }
 
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #8fddf2;
+    height: 35px;
+}
+
+nav a{
+    background-color: rgb(38, 0, 255);
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+}
+
 .sp_button {
     background-color: #00ff26;
     border: 1px solid #91ff00;
